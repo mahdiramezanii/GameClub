@@ -1,4 +1,4 @@
-# instagram
+# Game Club
 
 A new Flutter project.
 
